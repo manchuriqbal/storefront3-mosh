@@ -21,6 +21,9 @@ flower = "*"
 
 [dev-packages]
 autopep8 = "*"
+pytest-django = "*"
+pytest = "*"
+pytest-watch = "*"
 
 [requires]
 python_version = "3.9"
