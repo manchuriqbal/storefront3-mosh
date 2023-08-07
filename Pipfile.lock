@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "630265721fc4df50a6aa032989069a427ccd365f9b0e946897fb65079e600f6d"
+            "sha256": "679b8c5c307b9d53b92d6c620a9d2f7579828fe45aefeea6e006ffb8fd8bb4be"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -401,6 +401,13 @@
             ],
             "index": "pypi",
             "version": "==21.2.0"
+        },
+        "heroku": {
+            "hashes": [
+                "sha256:5ae3f2f38ac0a9ef50ddefd84e3e11895e22785003533a06a35108eadb716a1f"
+            ],
+            "index": "pypi",
+            "version": "==0.1.1"
         },
         "humanize": {
             "hashes": [
@@ -1192,11 +1199,11 @@
         },
         "locust": {
             "hashes": [
-                "sha256:4f2bee067483a1d8695e284b4436b35e610263743b82514210f2cedb85e7b4e1",
-                "sha256:8500e5cc3ee8a80c6b83996e31807b329e70e6af2231520aada5ad8873eec77e"
+                "sha256:cd54f179b679ae927e9b3ffd2b6a7c89c1078103cfbe96b4dd53c7872774b619",
+                "sha256:d0f01f9fca6a7d9be987b32185799d9e219fce3b9a3b8250ea03e88003335804"
             ],
             "index": "pypi",
-            "version": "==2.16.0"
+            "version": "==2.16.1"
         },
         "markupsafe": {
             "hashes": [

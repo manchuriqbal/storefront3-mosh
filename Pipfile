@@ -22,6 +22,7 @@ django-silk = "*"
 django-redis = "*"
 whitenoise = "*"
 gunicorn = "*"
+heroku = "*"
 
 [dev-packages]
 autopep8 = "*"
